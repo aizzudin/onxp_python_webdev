@@ -1,0 +1,15 @@
+[project]
+name = "python-web-dev"
+version = "0.1.0"
+description = "Monolith python web"
+authors = [
+    {name = "izzudin", email = "ahmadizzudin41@gmail.com"},
+]
+dependencies = []
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
